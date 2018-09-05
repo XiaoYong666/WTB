@@ -1,0 +1,214 @@
+﻿/* 清除浮动 */
+.clearfix:after {
+    content: " ";
+    display: block;
+    clear: both;
+    height: 0;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+.news-section div {
+    box-sizing: border-box;
+}
+
+.news-section .banner {
+    width: 100%;
+    height: 350px;
+}
+
+.news-section .swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+.news-section .swiper-slide img {
+    width: 100%;
+    height: 100%;
+}
+
+.news-section .tab-wrap {
+    margin: 30px auto;
+    width: 100%;
+    border: 1px solid #21c2de;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.news-section .tab-wrap .tab-item {
+    width: 50%;
+    float: left;
+    border-right: 1px solid #21c2de;
+    text-align: center;
+    font-size: 16px;
+    height: 46px;
+    line-height: 46px;
+    color: #31424e;
+    cursor: pointer;
+    position: relative;
+}
+
+.news-section .tab-wrap .tab-item:last-of-type {
+    border-right: 0;
+}
+
+.news-section .tab-wrap .tab-item.cur {
+    color: #fff;
+    background: #20c1dd;
+}
+
+.news-section .tab-wrap .tab-item.cur:after {
+    position: absolute;
+    bottom: -8px;
+    left: 50%;
+    content: ' ';
+    font-size: 0;
+    line-height: 0;
+    border-width: 8px;
+    border-color: #20c1dd;
+    border-bottom-width: 0;
+    border-style: dashed;
+    border-top-style: solid;
+    border-left-color: transparent;
+    border-right-color: transparent;
+
+}
+
+.news-section .news-list {
+    margin-top: 30px;
+    border: 1px solid #e6e6e6
+}
+
+.news-section .news-list .news-item {
+    padding: 25px 25px 0 25px;
+    width: 100%;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-transition: all 0.2s ease-in;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+
+.news-section .news-list .news-item .box {
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding-bottom: 25px;
+    overflow: hidden;
+    border-bottom: 1px solid #E6E6E6;
+}
+
+.news-section .news-list .news-item:last-of-type .box {
+    border-bottom: 0;
+}
+
+.news-section .news-list .news-item:hover {
+    background: #f7f7f7;
+    -webkit-box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.15);
+    -webkit-transform: translate3d(0, 0px, -2px);
+    transform: translate3d(0, 1px, -2px);
+}
+
+.news-section .news-list .news-item:hover .headTit {
+    color: #ee5b2e;
+}
+
+.news-section .news-list .news-item .img-box {
+    width: 240px;
+    height: 145px;
+    vertical-align: top;
+    float: left;
+    position: relative;
+}
+
+.news-section .news-list .news-item .sort {
+    display: inline-block;
+    height: 25px;
+    line-height: 25px;
+    padding: 0 10px;
+    background: rgba(0, 0, 0, 0.7);
+    font-size: 12px;
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.news-section .news-list .news-item .img-box img {
+    width: 100%;
+    height: 100%;
+    vertical-align: top;
+}
+
+.news-section .news-list .news-item .word {
+    padding-left: 22px;
+    overflow: hidden;
+}
+
+.news-section .news-list .news-item .headTit {
+    display: block;
+    font-size: 18px;
+    color: #31424e;
+    font-weight: bold;
+    text-align: left;
+}
+
+.news-section .news-list .news-item .word .des {
+    font-size: 14px;
+    text-align: left;
+    color: #5e6b73;
+    line-height: 22px;
+    padding: 15px 0;
+    max-height: 60px;
+    overflow: hidden;
+}
+
+.news-section .news-list .news-item .msg {
+    font-size: 14px;
+    color: #9baab6;
+    line-height: 25px;
+    margin-top: 10px;
+}
+
+.news-section .news-list .news-item .msg a {
+    font-size: 12px;
+    color: #9baab6;
+}
+
+.news-section .news-list .news-item .msg .aut {
+    float: left;
+    line-height: 25px;
+}
+
+.news-section .news-list .news-item .msg .aut img {
+    width: 25px;
+    vertical-align: middle;
+    margin-right: 8px;
+    height: 25px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+
+.news-section .news-list .news-item .msg .time {
+    float: left;
+    margin-left: 25px;
+}
+
+.news-section .no-result {
+    margin: 40px auto;
+    padding: 30px 0;
+    text-align: center;
+    font-size: 16px;
+    color: #333;
+}
+
+.news-section .no-result .img-box {
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
