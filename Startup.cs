@@ -43,7 +43,7 @@ namespace WTB
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Index}/{action=Index}/{id?}");
+                    template: "{controller=ShowIndex}/{action=Index}/{id?}");
             });
         }
     }

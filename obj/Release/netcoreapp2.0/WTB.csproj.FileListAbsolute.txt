@@ -9,3 +9,14 @@ D:\项目\WTB\obj\Release\netcoreapp2.0\WTB.AssemblyInfoInputs.cache
 D:\项目\WTB\obj\Release\netcoreapp2.0\WTB.AssemblyInfo.cs
 D:\项目\WTB\obj\Release\netcoreapp2.0\WTB.dll
 D:\项目\WTB\obj\Release\netcoreapp2.0\WTB.pdb
+F:\项目\沃特币官网\WTB\bin\Release\netcoreapp2.0\WTB.deps.json
+F:\项目\沃特币官网\WTB\bin\Release\netcoreapp2.0\WTB.runtimeconfig.json
+F:\项目\沃特币官网\WTB\bin\Release\netcoreapp2.0\WTB.runtimeconfig.dev.json
+F:\项目\沃特币官网\WTB\bin\Release\netcoreapp2.0\WTB.dll
+F:\项目\沃特币官网\WTB\bin\Release\netcoreapp2.0\WTB.pdb
+F:\项目\沃特币官网\WTB\obj\Release\netcoreapp2.0\WTB.csprojResolveAssemblyReference.cache
+F:\项目\沃特币官网\WTB\obj\Release\netcoreapp2.0\WTB.csproj.CoreCompileInputs.cache
+F:\项目\沃特币官网\WTB\obj\Release\netcoreapp2.0\WTB.AssemblyInfoInputs.cache
+F:\项目\沃特币官网\WTB\obj\Release\netcoreapp2.0\WTB.AssemblyInfo.cs
+F:\项目\沃特币官网\WTB\obj\Release\netcoreapp2.0\WTB.dll
+F:\项目\沃特币官网\WTB\obj\Release\netcoreapp2.0\WTB.pdb

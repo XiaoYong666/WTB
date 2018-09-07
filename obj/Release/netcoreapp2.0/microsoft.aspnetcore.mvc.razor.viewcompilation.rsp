@@ -1,0 +1,15 @@
+F:\项目\沃特币官网\WTB
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WTB
+--content-root=F:\项目\沃特币官网\WTB
+--file=F:\项目\沃特币官网\WTB\Views\Home\About.cshtml
+--file=F:\项目\沃特币官网\WTB\Views\Home\Contact.cshtml
+--file=F:\项目\沃特币官网\WTB\Views\Home\Index.cshtml
+--file=F:\项目\沃特币官网\WTB\Views\Index\Index.cshtml
+--file=F:\项目\沃特币官网\WTB\Views\Index\IndexPage.cshtml
+--file=F:\项目\沃特币官网\WTB\Views\Shared\Error.cshtml
+--file=F:\项目\沃特币官网\WTB\Views\Shared\_Layout.cshtml
+--file=F:\项目\沃特币官网\WTB\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=F:\项目\沃特币官网\WTB\Views\ShowIndex\Index.cshtml
+--file=F:\项目\沃特币官网\WTB\Views\_ViewImports.cshtml
+--file=F:\项目\沃特币官网\WTB\Views\_ViewStart.cshtml

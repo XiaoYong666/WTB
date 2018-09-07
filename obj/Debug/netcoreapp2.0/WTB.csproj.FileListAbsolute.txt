@@ -9,3 +9,4 @@ D:\项目\WTB\obj\Debug\netcoreapp2.0\WTB.AssemblyInfoInputs.cache
 D:\项目\WTB\obj\Debug\netcoreapp2.0\WTB.AssemblyInfo.cs
 D:\项目\WTB\obj\Debug\netcoreapp2.0\WTB.dll
 D:\项目\WTB\obj\Debug\netcoreapp2.0\WTB.pdb
+F:\项目\沃特币官网\WTB\bin\Debug\netcoreapp2.0\WTB.dll
